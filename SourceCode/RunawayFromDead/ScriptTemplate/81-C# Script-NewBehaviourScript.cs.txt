@@ -1,0 +1,24 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace RunawayFromDead {
+	public class #SCRIPTNAME# : MonoBehaviour {
+
+		private void OnEnable () {
+
+		}
+
+		private void OnDisable () {
+
+		}
+
+		private void Start () {
+			#NOTRIM#
+		}
+
+		private void Update () {
+			#NOTRIM#
+		}
+	}
+}
